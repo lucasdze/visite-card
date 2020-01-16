@@ -1,1 +1,3 @@
-# visite-card
+# maven-project
+
+Simple Maven Project
